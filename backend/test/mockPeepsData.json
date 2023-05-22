@@ -1,0 +1,32 @@
+{
+    "peeps": [
+        {
+            "_id": 1,
+            "name": "Mock Name 1",
+            "peepBody": "Hello world!",
+            "username": "johndoe",
+            "createdAt": "2023-03-25T18:50:57.107Z"
+        },
+        {
+            "_id": 2,
+            "name": "Mock Name 2",
+            "text": "This is my second post",
+            "username": "johndoe",
+            "createdAt": "2023-03-25T18:50:57.107Z"
+        },
+        {
+            "_id": 3,
+            "name": "Mock Name 3",
+            "text": "I love coding!",
+            "username": "janesmith",
+            "createdAt": "2023-03-25T18:50:57.107Z"
+        },
+        {
+            "_id": 4,
+            "name": "Mock Name 4",
+            "text": "Just finished a coding challenge",
+            "username": "janesmith",
+            "createdAt": "2023-03-25T18:50:57.107Z"
+        }
+    ]
+}
